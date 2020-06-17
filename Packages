@@ -31,7 +31,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Danyar <danyarkawa99@gmail.com>
 Depends: winterboard, anemone
-Filename: debs/PubgHack.deb
+Filename: ./debs/PubgHack.deb
 Size: 100,356
 MD5sum: 14C2C709944F30739AA685BFF639C879
 SHA1: 658F8D7A62F70333498166520136FA18EE225D8A
